@@ -1,0 +1,156 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background: black;
+}
+
+.canvas1 {
+	width: 900px;
+	height: 556px;
+	margin: 100px auto;
+	background: white;
+	position: relative;
+}
+
+.casing {
+	width:250px;
+	height: 400px;
+	background:gray;
+	position: relative;
+	top:65px;
+	left:325px;
+
+}
+
+
+.switch1 {
+	width:40px;
+	height: 80px;
+	background:white;
+	position: relative;
+	bottom:175px;
+	left:430px;
+}
+
+
+.switch2 {
+	width:38px;
+	height: 38px;
+	background:lightgrey;
+	position: relative;
+	bottom:235px;
+	left:431px;
+}
+
+.screw1 {height: 25px;
+  width: 25px;
+  background-color: darkgray;
+  border-radius: 50%;
+  position: relative;
+  bottom:150px;
+  left:436px;
+
+}
+
+.screw2 {
+	height: 25px;
+	width: 25px;
+	background-color: darkgray;
+	border-radius: 50%;
+	position: relative;
+	bottom: 400px;
+	left: 436px;
+}
+
+
+.canvas2 {
+	width: 900px;
+	height: 556px;
+	margin: 100px auto;
+	background: pink;
+	position: relative;
+}
+
+
+.case {
+	width:250px;
+	height: 450px;
+	background:blue;
+	position: relative;
+	top:65px;
+	left:325px;
+	border-radius: 40px;
+}
+
+.circle1 {
+	width: 40px;
+	height: 40px;
+	border-radius:50%;
+	background-color: black;
+	position:relative;
+	bottom: 350px;
+	left: 360px;
+}
+
+.circle2 {
+	width: 40px;
+	height: 40px;
+	border-radius:50%;
+	background-color: black;
+	position:relative;
+	bottom: 345px;
+	left: 360px;
+}
+
+.circle3 {
+	width: 40px;
+	height: 40px;
+	border-radius:50%;
+	background-color: black;
+	position:relative;
+	bottom: 405px;
+	left: 400px;
+}
+
+.circle4 {
+	width: 5px;
+	height: 5px;
+	border-radius:50%;
+	background-color: black;
+	position:relative;
+	bottom: 397px;
+	left: 417px;
+}
+
+.circle5 {
+	width: 10px;
+	height: 10px;
+	border-radius:50%;
+	background-color: white;
+	position:relative;
+	bottom: 470px;
+	left: 415px;
+}
+
+.apple1 {
+	width: 60px;
+	height: 60px;
+	border-radius:50%;
+	background-color: darkblue;
+	position:relative;
+	bottom: 330px;
+	left: 420px;
+}
+
+.apple2 {
+	width: 45px;
+	height: 45px;
+	border-radius:50%;
+	background-color: blue;
+	position:relative;
+	bottom: 380px;
+	left: 455px;
+}
+
