@@ -1,0 +1,127 @@
+.You {
+	font-weight: bolder;
+	font-size: 1111px;
+}
+
+.Fit {
+	font-weight: bold;
+	font-size: 500px;
+	position: absolute;
+	top:950px;
+	left: 25px;
+}
+
+.Me {
+font-weight: bold;
+	font-size: 500px;
+	position: absolute;
+	top:950px;
+	left: 1200px;
+
+}
+
+.Like{
+	font-weight: bolder;
+	font-size: 500px;
+	position: absolute;
+	top:1300px;
+	left: 475px;
+}
+
+.A {
+	font-weight: bold;
+	font-size: 500px;
+	position: absolute;
+	top:1500px;
+	left: 75px;
+}
+
+.Hook {
+	font-weight: bold;
+	font-size: 500px;
+	position: absolute;
+	top:1750px;
+	left: 480px;
+}
+
+.Into {
+	font-weight: bolder;
+	font-size: 1000px;
+	position: absolute;
+	top:2000px;
+	left: 75px;
+}
+
+.An {
+	font-weight: bold;
+	font-size: 500px;
+	position: absolute;
+	top:2900px;
+	left: 75px;
+}
+
+.Eye {
+	font-weight: bold;
+	font-size: 700px;
+	position: absolute;
+	top:2900px;
+	left: 700px;
+}
+
+.A2 {
+	font-weight: bolder;
+	font-size: 1000px;
+	position: absolute;
+	top:3250px;
+	left: 25px;
+}
+
+.Fish {font-weight: bold;
+	font-size: 300px;
+	position: absolute;
+	top:3600px;
+	left: 670px;
+
+}
+
+.Hook2 {
+	font-weight: bold;
+	font-size: 500px;
+	position: absolute;
+	top:3800px;
+	left: 725px;
+}
+
+.An2 {
+	font-weight: bold;
+	font-size: 300px;
+	position: absolute;
+	top:4200px;
+	left: 670px;
+}
+
+.Open {
+	font-weight: bold;
+	font-size: 400px;
+	position: absolute;
+	top:4450px;
+	left: 25px;
+}
+
+.next {
+	height: 25px;
+	width:25px;
+	background-color: blue;
+	position: fixed;
+	bottom:10px;
+	right:10px;
+}
+
+.back {
+	height: 25px;
+	width:25px;
+	background-color: red;
+	position: fixed;
+	bottom:10px;
+	right:40px;
+}

@@ -1,0 +1,104 @@
+.You { 
+  font-size: 20em; 
+  text-align: center;
+  -webkit-transition: all .5s ease;
+  -moz-transition: all .5s ease;
+  transition: all .5s ease;
+}
+
+.You:hover { font-size: 2em; color: red; }
+
+@media screen and (max-width: 1000px){
+  .You { 
+    font-size: 2em;
+    color: red;
+  }
+}
+
+
+
+
+
+
+.Hook { 
+  font-size: 20em; 
+  text-align: center;
+  -webkit-transition: all .5s ease;
+  -moz-transition: all .5s ease;
+  transition: all .5s ease;
+}
+
+.Hook:hover { font-size: 2em; color: red; }
+
+@media screen and (max-width: 1000px){
+  .Hook { 
+    font-size: 2em;
+    color: red;
+  }
+}
+
+
+
+
+
+
+
+
+.Fish { 
+  font-size: 20em; 
+  text-align: center;
+  -webkit-transition: all .5s ease;
+  -moz-transition: all .5s ease;
+  transition: all .5s ease;
+}
+
+.Fish:hover { font-size: 2em; color: red; }
+
+@media screen and (max-width: 1000px){
+  .Fish { 
+    font-size: 2em;
+    color: red;
+  }
+}
+
+
+
+
+
+
+
+.Open { 
+  font-size: 20em; 
+  text-align: center;
+  -webkit-transition: all .5s ease;
+  -moz-transition: all .5s ease;
+  transition: all .5s ease;
+}
+
+.Open:hover { font-size: 2em; color: red; }
+
+@media screen and (max-width: 1000px){
+  .Open { 
+    font-size: 2em;
+    color: red;
+  }
+}
+
+
+.next {
+	height: 25px;
+	width:25px;
+	background-color: blue;
+	position: fixed;
+	bottom:10px;
+	right:10px;
+}
+
+.back {
+	height: 25px;
+	width:25px;
+	background-color: red;
+	position: fixed;
+	bottom:10px;
+	right:40px;
+}

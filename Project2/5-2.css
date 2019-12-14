@@ -1,0 +1,42 @@
+.You {
+font-family: Helvetica;
+font-weight: bolder;
+font-size: 80px;
+position: absolute;
+top:300px;
+background-color: red;
+color: white;
+alignment-baseline: center;
+}
+
+.You:hover {
+  transform: translateY(900px);
+}
+
+
+
+body {
+  background-color: black;
+}
+
+
+
+
+
+.next {
+	height: 25px;
+	width:25px;
+	background-color: blue;
+	position: fixed;
+	bottom:10px;
+	right:10px;
+}
+
+.back {
+	height: 25px;
+	width:25px;
+	background-color: red;
+	position: fixed;
+	bottom:10px;
+	right:40px;
+}

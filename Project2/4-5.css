@@ -1,0 +1,214 @@
+.You{ font-family: Verdana;
+	font-weight:Bolder;
+	font-size:25px;
+
+}
+
+.Fit{
+font-family: Verdana;
+	font-weight:Bolder;
+	font-size: 50px;
+}
+
+.Into1{
+font-family: Verdana;
+	font-weight:Bolder;
+	font-size: 100px;
+}
+
+.Me{
+font-family: Verdana;
+	font-weight:Bolder;
+	font-size: 120px;
+}
+
+.Like{
+font-family: Verdana;
+	font-weight:Bolder;
+	font-size: 200px;
+}
+
+.A1{
+font-family: Verdana;
+	font-weight:Bolder;
+	font-size: 600px;
+}
+
+.Hook1{
+font-family: Verdana;
+	font-weight:Bolder;
+	font-size: 350px;
+}
+
+.Into2{
+font-family: Verdana;
+	font-weight:Bolder;
+	font-size: 500px;
+}
+
+.An1{
+font-family: Verdana;
+	font-weight:Bolder;
+	font-size: 650px;
+}
+
+.Eye1{
+font-family: Verdana;
+	font-weight:Bolder;
+	font-size: 650px;
+}
+
+.A2{
+font-family: Verdana;
+	font-weight:Bolder;
+	font-size: 1000px;
+}
+
+.Fish{
+font-family: Verdana;
+	font-weight:Bolder;
+	font-size: 750px;
+}
+
+.Hook2{
+font-family: Verdana;
+	font-weight:Bolder;
+	font-size: 850px;
+}
+
+.An2{
+font-family: Verdana;
+	font-weight:Bolder;
+	font-size: 1100px;
+}
+
+.Open{
+font-family: Verdana;
+	font-weight:Bolder;
+	font-size: 1100px;
+}
+
+.Eye2{
+font-family: Verdana;
+	font-weight:Bolder;
+	font-size: 2300px;
+}
+
+
+
+p {
+
+}
+
+.aYou{ font-family: Verdana;
+	font-weight:Bolder;
+	font-size:1300px;
+
+}
+
+.aFit{
+font-family: Verdana;
+	font-weight:Bolder;
+	font-size: 1200px;
+}
+
+.aInto1{
+font-family: Verdana;
+	font-weight:Bolder;
+	font-size: 750px;
+}
+
+.aMe{
+font-family: Verdana;
+	font-weight:Bolder;
+	font-size: 1100px;
+}
+
+.aLike{
+font-family: Verdana;
+	font-weight:Bolder;
+	font-size: 750px;
+}
+
+.aA1{
+font-family: Verdana;
+	font-weight:Bolder;
+	font-size: 2000px;
+}
+
+.aHook1{
+font-family: Verdana;
+	font-weight:Bolder;
+	font-size: 500px;
+}
+
+.aInto2{
+font-family: Verdana;
+	font-weight:Bolder;
+	font-size: 450px;
+}
+
+.aAn1{
+font-family: Verdana;
+	font-weight:Bolder;
+	font-size: 500px;
+}
+
+.aEye1{
+font-family: Verdana;
+	font-weight:Bolder;
+	font-size: 350px;
+}
+
+.aA2{
+font-family: Verdana;
+	font-weight:Bolder;
+	font-size: 600px;
+}
+
+.aFish{
+font-family: Verdana;
+	font-weight:Bolder;
+	font-size: 200px;
+}
+
+.aHook2{
+font-family: Verdana;
+	font-weight:Bolder;
+	font-size: 120px;
+}
+
+.aAn2{
+font-family: Verdana;
+	font-weight:Bolder;
+	font-size: 100px;
+}
+
+.aOpen{
+font-family: Verdana;
+	font-weight:Bolder;
+	font-size: 50px;
+}
+
+.aEye2{
+font-family: Verdana;
+	font-weight:Bolder;
+	font-size: 25px;
+}
+.next {
+	height: 25px;
+	width:25px;
+	background-color: blue;
+	position: fixed;
+	bottom:10px;
+	right:10px;
+}
+
+.back {
+	height: 25px;
+	width:25px;
+	background-color: red;
+	position: fixed;
+	bottom:10px;
+	right:40px;
+}

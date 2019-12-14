@@ -1,0 +1,57 @@
+h1 {
+	margin-left: 700px;
+	margin-right: 750px;
+
+}
+
+h2 {
+	margin-left: 700px;
+	margin-right: 750px;
+
+}
+
+
+h3 {
+	margin-left: 700px;
+	margin-right: 800px;
+
+}
+
+
+h4 {
+	margin-left: 700px;
+	margin-right: 850px;
+
+}
+
+
+h5 {
+	margin-left: 700px;
+	margin-right: 900px;
+
+}
+
+
+h6 {
+	margin-left: 700px;
+	margin-right: 950px;
+
+}
+
+.next {
+	height: 25px;
+	width:25px;
+	background-color: blue;
+	position: fixed;
+	bottom:10px;
+	right:10px;
+}
+
+.back {
+	height: 25px;
+	width:25px;
+	background-color: red;
+	position: fixed;
+	bottom:10px;
+	right:40px;
+}

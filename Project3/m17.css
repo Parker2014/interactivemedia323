@@ -1,0 +1,11 @@
+body {
+	font-family: Helvetica;
+	font-size: 40px;
+	font-weight: bolder;
+	position: relative;
+	top: 5px;
+	float: right;
+	text-align: right;
+	color: white;
+	background-color: black;
+}

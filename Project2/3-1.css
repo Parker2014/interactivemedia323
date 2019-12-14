@@ -1,0 +1,52 @@
+
+.p3 {
+	margin-top:200px;
+}
+
+.block {
+	display: block;
+	background: black;
+}
+
+.Like {
+	position: relative;
+	top:550px;
+	left: 400px;
+}
+.You {
+	position: relative;
+	top:500px;
+}
+.A {
+	position: relative;
+	top:450px;
+	left: 800px;
+}
+.An {
+	position: relative;
+	top:650px;
+	left: 1250px;
+}
+
+.fill {
+	position: relative;
+	top:387px;
+}
+
+.next {
+	height: 25px;
+	width:25px;
+	background-color: blue;
+	position: absolute;
+	bottom:10px;
+	right:10px;
+}
+
+.back {
+	height: 25px;
+	width:25px;
+	background-color: red;
+	position: absolute;
+	bottom:10px;
+	right:40px;
+}

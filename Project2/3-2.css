@@ -1,0 +1,43 @@
+h1 {
+	position: relative;
+	top: 0px;
+	left:600px;
+}
+
+h2 {
+	position: relative;
+	top: 0px;
+	left:570px;
+
+}
+
+h3 {
+	position: relative;
+	top: 0px;
+	left:640px;
+
+}
+
+h4 {
+	position: relative;
+	top: 0px;
+	left:640px;
+}
+
+.next {
+	height: 25px;
+	width:25px;
+	background-color: blue;
+	position: fixed;
+	bottom:10px;
+	right:10px;
+}
+
+.back {
+	height: 25px;
+	width:25px;
+	background-color: red;
+	position: fixed;
+	bottom:10px;
+	right:40px;
+}
